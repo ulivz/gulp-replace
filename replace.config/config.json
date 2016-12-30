@@ -1,0 +1,14 @@
+{
+  "path": [
+    {
+      "source": "replace.config/init/source/A.js",
+      "target_bak": "replace.config/init/bak/A.js",
+      "target": "src/A.js"
+    },
+    {
+      "source": "replace.config/init/source/B.js",
+      "target_bak": "replace.config/init/bak/B.js",
+      "target": "src/B.js"
+    }
+  ]
+}
