@@ -1,4 +1,7 @@
 # replace
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/ulivz/gulp-replace.svg)](https://greenkeeper.io/)
+
 a Gulp file-replace and markdown-log-created task.
 
 <br>
